@@ -18,7 +18,7 @@
 
 4. Nama : MUH. AHSAN
     
-    Link Github : https://github.com/muahsanarifin
+    Link Github : https://github.com/muhahsanarifin
 
 5. Nama : Ihtisyamul Fatimah
     
