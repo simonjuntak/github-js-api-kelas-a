@@ -20,5 +20,10 @@
     
     Link Github : https://github.com/muahsanarifin
 
-
+5. Nama : Ihtisyamul Fatimah
     
+    Link Github : https://github.com/Asyima37
+
+6. Nama : Anggi Tri Sihombing
+    
+    Link GitHub : https://github.com/anggitrisi
