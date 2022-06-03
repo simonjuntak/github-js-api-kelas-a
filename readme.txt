@@ -1,4 +1,5 @@
 belajar git
+
 1. Nama : Rachmad Irawan 
     Link Github : https://github.com/rachmadirawan
 
@@ -11,6 +12,6 @@ belajar git
 4. Nama : Ihtisyamul Fatimah
     Link Github : https://github.com/Asyima37
 
+5. Nama : Anggi Tri Sihombing
+    Link GitHub : https://github.com/anggitrisi
 
-
-    
