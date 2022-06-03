@@ -1,10 +1,8 @@
 ## JavaScript with API DTS FGA Batch 2 x Progate.
 
-## Belajar GIT menggunakan Github.
+<h3>Belajar GIT menggunakan Github.</h3>
 
 **Kelas A**
-
----
 
 1. Nama : Rachmad Irawan 
     Link Github : https://github.com/rachmadirawan
