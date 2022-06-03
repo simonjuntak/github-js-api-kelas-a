@@ -9,6 +9,9 @@ belajar git
 3. Nama : Riki Widiantoro
     Link Github : https://github.com/rikiwidiantoro
 
-4. Nama : Anggi Tri Sihombing
+4. Nama : Ihtisyamul Fatimah
+    Link Github : https://github.com/Asyima37
+
+5. Nama : Anggi Tri Sihombing
     Link GitHub : https://github.com/anggitrisi
 
