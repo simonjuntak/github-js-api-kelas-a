@@ -24,6 +24,7 @@
     
     Link Github : https://github.com/Asyima37
 
+<<<<<<< HEAD
 6. Nama : Anggi Tri Sihombing
     
     Link GitHub : https://github.com/anggitrisi
@@ -55,4 +56,33 @@
 12. Nama : Ninja Ken
 
     Link Github : https://github.com/irprogate
+
+   
+13. Nama : Mukhammad Fakhrizal Ihza Mahendra
+
+    Link Github : https://github.com/mfimahendra
+    
+14. Nama : Bella Rhobiatul Adhawiyah
+
+    Link Github : https://github.com/bellrhoa
+
+15. Nama : Wahyu Maulana Prawiro
+
+    Link Github : https://github.com/wmprawiro
+
+16. Nama : Ninja Ken
+
+    Link Github : https://github.com/irprogate
+
+17. Nama : Nanda Roendra
+
+    Link Github : https://github.com/nandaroendra
+
+18. Nama : Yesyurun Masiakh
+
+    Link Github : https://github.com/YesyurunMasiakh
+
+19. Nama : Novi Fitri
+
+    Link Github : https://github.com/novifitri
 
