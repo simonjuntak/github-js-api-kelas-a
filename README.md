@@ -27,3 +27,9 @@
 6. Nama : Anggi Tri Sihombing
     
     Link GitHub : https://github.com/anggitrisi
+
+7. Nama : Muhammad Reza Phonna
+    link Github : https://github.com/rezaphonna
+
+8. Nama : Anisa Permatasari
+    Link Github : https://github.com/anisa2472    
