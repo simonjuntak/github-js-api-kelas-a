@@ -74,3 +74,6 @@
     
 22. Nama : Ferry Ananda Febian
     Link Github : https://github.com/ratixdev
+
+23. Nama : Aviza Anandya
+    Link Github : https://github.com/vizaanandyaa
