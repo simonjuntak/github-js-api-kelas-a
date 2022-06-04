@@ -32,4 +32,8 @@
     link Github : https://github.com/rezaphonna
 
 8. Nama : Anisa Permatasari
-    Link Github : https://github.com/anisa2472    
+    Link Github : https://github.com/anisa2472
+    
+9. Nama : Bella Rhobiatul Adhawiyah
+    
+    Link Github : https://github.com/bellrhoa
