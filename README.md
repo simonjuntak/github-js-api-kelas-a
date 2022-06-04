@@ -44,7 +44,11 @@
 13. Nama : Ninja Ken
     Link Github : https://github.com/irprogate
 
+
 14. Nama : Nanda Roendra
     Link Github : https://github.com/nandaroendra
 
-    
+
+15. Nama : Yesyurun Masiakh
+    Link Github : https://github.com/YesyurunMasiakh
+
