@@ -71,3 +71,6 @@
 
 21. Nama : Phyrigiant Richo Albarzani
     Link Github : https://github.com/phyrigiant
+    
+21. Nama : Ferry Ananda Febian
+    Link Github : https://github.com/ratixdev
