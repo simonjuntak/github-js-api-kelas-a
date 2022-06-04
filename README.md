@@ -65,3 +65,6 @@
 
 19. Nama : Novi Fitri
     Link Github : https://github.com/novifitri
+
+20. Nama : Riska Amelia
+    Link Github : https://github.com/riskaamelia-wd
