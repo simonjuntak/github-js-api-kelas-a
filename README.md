@@ -73,5 +73,8 @@
     Link Github : https://github.com/phyrigiant
 
 22. Nama : Rachmi Ulizah H
+<<<<<<< HEAD
     
+=======
+>>>>>>> ed67c330219dbe029de62bab5c125cad317f4c8b
     Link Github : https://github.com/rachmiuliza
