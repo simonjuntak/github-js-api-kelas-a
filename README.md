@@ -52,3 +52,5 @@
 15. Nama : Yesyurun Masiakh
     Link Github : https://github.com/YesyurunMasiakh
 
+16. Nama : Novi Fitri
+    Link Github : https://github.com/novifitri
