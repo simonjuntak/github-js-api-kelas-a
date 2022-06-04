@@ -72,18 +72,21 @@
 21. Nama : Phyrigiant Richo Albarzani
     Link Github : https://github.com/phyrigiant
 
+22. Nama : Muhammad Fajri Zetra
+    Link Github : https://github.com/FajriZetra52
 
-22. Nama : Nurcholish Dwilestanto
+23. Nama : Nurcholish Dwilestanto
     Link Github : https://github.com/NurcholishDwilestanto
 
-23. Nama : Ferry Ananda Febian
+24. Nama : Ferry Ananda Febian
     Link Github : https://github.com/ratixdev
 
-24. Nama : Aviza Anandya
+25. Nama : Aviza Anandya
     Link Github : https://github.com/vizaanandyaa
 
-25. Nama : Aruf Rachman Hakim
+26. Nama : Aruf Rachman Hakim
     Link Github : https://github.com/arufhakim
+
 
 
 
