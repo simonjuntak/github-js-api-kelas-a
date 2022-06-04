@@ -25,6 +25,11 @@ belajar git
 8. Nama : Anisa Permatasari
     Link Github : https://github.com/anisa2472
 
+
 9. Nama : Rizqi Siti Rahmah
     Link Github : https://github.com/RizqiSR/
+
+
+8. Nama : Wahyu Maulana Prawiro
+    Link Github : https://github.com/wmprawiro
 
