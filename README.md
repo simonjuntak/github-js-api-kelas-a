@@ -91,7 +91,11 @@
 22. Nama : Phyrigiant Richo Albarzani
 
     Link Github : https://github.com/phyrigiant
-    
+
 23. Nama : Ferry Ananda Febian
-    
+
     Link Github : https://github.com/ratixdev
+
+24. Nama : Aruf Rachman Hakim
+    Link Github : https://github.com/arufhakim
+
