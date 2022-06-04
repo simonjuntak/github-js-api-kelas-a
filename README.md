@@ -32,15 +32,19 @@
 9. Nama : Rizqi Siti Rahmah
     Link Github : https://github.com/RizqiSR/
    
-9. Nama : Mukhammad Fakhrizal Ihza Mahendra
+10. Nama : Mukhammad Fakhrizal Ihza Mahendra
     Link Github : https://github.com/mfimahendra
     
-10. Nama : Bella Rhobiatul Adhawiyah
+11. Nama : Bella Rhobiatul Adhawiyah
     Link Github : https://github.com/bellrhoa
 
-11. Nama : Wahyu Maulana Prawiro
+12. Nama : Wahyu Maulana Prawiro
     Link Github : https://github.com/wmprawiro
 
-12. Nama : Ninja Ken
+13. Nama : Ninja Ken
     Link Github : https://github.com/irprogate
 
+14. Nama : Nanda Roendra
+    Link Github : https://github.com/nandaroendra
+
+    
