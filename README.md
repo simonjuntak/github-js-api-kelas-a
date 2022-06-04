@@ -33,3 +33,7 @@
 
 8. Nama : Anisa Permatasari
     Link Github : https://github.com/anisa2472    
+
+9. Nama : Mukhammad Fakhrizal Ihza Mahendra
+    Link Github : https://github.com/mfimahendra
+    
