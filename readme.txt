@@ -15,3 +15,8 @@ belajar git
 5. Nama : Anggi Tri Sihombing
     Link GitHub : https://github.com/anggitrisi
 
+6. Nama : Muhammad Reza Phonna
+    link Github : https://github.com/rezaphonna
+    
+7. Nama : Anisa Permatasari
+    Link Github : https://github.com/anisa2472
