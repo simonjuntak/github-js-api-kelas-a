@@ -75,6 +75,11 @@
 22. Nama : Ferry Ananda Febian
     Link Github : https://github.com/ratixdev
 
-23. Nama : Aruf Rachman Hakim
+
+23. Nama : Aviza Anandya
+    Link Github : https://github.com/vizaanandyaa
+
+24. Nama : Aruf Rachman Hakim
     Link Github : https://github.com/arufhakim
+
 
