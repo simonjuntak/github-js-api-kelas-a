@@ -71,3 +71,6 @@
 
 21. Nama : Phyrigiant Richo Albarzani
     Link Github : https://github.com/phyrigiant
+
+22. Nama : Muhammad Fajri Zetra
+    Link Github : https://github.com/FajriZetra52
