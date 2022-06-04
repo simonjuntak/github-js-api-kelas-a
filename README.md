@@ -24,7 +24,6 @@
     
     Link Github : https://github.com/Asyima37
 
-<<<<<<< HEAD
 6. Nama : Anggi Tri Sihombing
     
     Link GitHub : https://github.com/anggitrisi
