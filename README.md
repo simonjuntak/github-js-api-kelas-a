@@ -68,3 +68,6 @@
 
 20. Nama : Riska Amelia
     Link Github : https://github.com/riskaamelia-wd
+
+21. Nama : Phyrigiant Richo Albarzani
+    Link Github : https://github.com/phyrigiant
