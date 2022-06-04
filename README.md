@@ -87,6 +87,6 @@
 26. Nama : Aruf Rachman Hakim
     Link Github : https://github.com/arufhakim
 
-
-
+27. Nama : Ferdy Alfian Indra Prasetya
+    Link Github : https://github.com/Ferdyalfianip
 
