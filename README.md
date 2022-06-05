@@ -100,23 +100,27 @@
 
     Link Github : https://github.com/AntungFauziah28
 
-25. Nama : Dewi Quraisin 
+
+25. Nama : Ferdy Alfian Indra Prasetya
+    Link Github : https://github.com/Ferdyalfianip
+
+26. Nama : Dewi Quraisin 
 
     Link Github : https://github.com/dewiQ
 
-26. Nama : Novia Pramesti Aprilia
+27. Nama : Novia Pramesti Aprilia
   
     Link Github : https://github.com/cookiezck 
 
-27. Nama : Vicko Maris Septiadi
+28. Nama : Vicko Maris Septiadi
     Link Github : https://github.com/vickomaris
 
 
-28. Nama : Dewi Quraisin
+29. Nama : Dewi Quraisin
     Link Github : https://github.com/dewiQ
 
 
-29. Nama : Aviza Anandya
+30. Nama : Aviza Anandya
 
     Link Github : https://github.com/vizaanandyaa
     
