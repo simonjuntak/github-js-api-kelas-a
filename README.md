@@ -95,7 +95,6 @@
 
     Link Github : https://github.com/Gazka
 
-
 24. Nama : Vicko Maris Septiadi
 
     Link Github : https://github.com/vickomaris
