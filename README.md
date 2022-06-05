@@ -127,3 +127,9 @@
 
 32. Nama : Reza Pangestu
     Link GitHub : https://github.com/rezaapangestu313  
+ 
+
+33. Nama : Muhammad Fajri Zetra
+
+    Link Github : https://github.com/FajriZetra52
+ 
