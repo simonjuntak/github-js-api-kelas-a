@@ -132,16 +132,10 @@
 32. Nama : Reza Pangestu
     Link GitHub : https://github.com/rezaapangestu313  
 
-<<<<<<< HEAD
-33. Nama : Guru Domba
-    Link Github : progate.com
-=======
-    
     
 33. Nama : Siti Nurlia Kilmas
 
     Link Github : https://github.com/sutset
-
 
 
 34. Nama : Muhammad Fajri Zetra
@@ -149,7 +143,6 @@
     Link Github : https://github.com/FajriZetra52
 
 35. Nama : Muhamad Dani Setiawan
-
     Link Github : https://github.com/danisetiawanid
  
->>>>>>> e1580ba9b55882ff7dfea40891102e376804337a
+
