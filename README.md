@@ -108,6 +108,11 @@
     
 26. Nama : Dewi Quraisin
     Link Github : https://github.com/dewiQ
+
+
+27. Nama : Aviza Anandya
+
+    Link Github : https://github.com/vizaanandyaa
     
 
 
