@@ -81,13 +81,12 @@
     Link Github : https://github.com/ratixdev
 
 20. Nama : Aruf Rachman Hakim
-
+ 
     Link Github : https://github.com/arufhakim
 
 21. Nama : Husnul Hotimah
-    
-    Link Github : https://github.com/husnul1512
 
+    Link Github : https://github.com/husnul1512
 
 22. Nama : Ferry Ananda Febian
 
@@ -101,8 +100,21 @@
 
     Link Github : https://github.com/AntungFauziah28
 
-27. Nama : Dewi Quraisin Link Github : https://github.com/dewiQ
+25. Nama : Dewi Quraisin 
 
-28. Nama : Novia Pramesti Aprilia
-    
+    Link Github : https://github.com/dewiQ
+
+26. Nama : Novia Pramesti Aprilia
+27. 
     Link Github : https://github.com/cookiezck 
+
+27. Nama : Vicko Maris Septiadi
+    Link Github : https://github.com/vickomaris
+
+
+28. Nama : Dewi Quraisin
+    Link Github : https://github.com/dewiQ
+    
+
+
+
