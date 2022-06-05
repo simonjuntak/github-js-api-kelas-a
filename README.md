@@ -133,11 +133,9 @@
     Link GitHub : https://github.com/rezaapangestu313  
 
     
-    
 33. Nama : Siti Nurlia Kilmas
 
     Link Github : https://github.com/sutset
-
 
 
 34. Nama : Muhammad Fajri Zetra
@@ -145,6 +143,6 @@
     Link Github : https://github.com/FajriZetra52
 
 35. Nama : Muhamad Dani Setiawan
-
     Link Github : https://github.com/danisetiawanid
  
+
