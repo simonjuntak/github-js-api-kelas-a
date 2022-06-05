@@ -94,3 +94,8 @@
 23. Nama : Bagas Kurnianto
 
     Link Github : https://github.com/Gazka
+    
+24. Nama : Dewi Quraisin
+    Link Github : https://github.com/dewiQ
+    
+
