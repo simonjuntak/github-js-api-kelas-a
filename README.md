@@ -90,4 +90,4 @@
 
 22. Nama : Novia Pramesti Aprilia
     
-    Ling Github : https://github.com/cookiezck
+    Link Github : https://github.com/cookiezck
