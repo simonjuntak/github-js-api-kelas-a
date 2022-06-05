@@ -105,7 +105,7 @@
     Link Github : https://github.com/dewiQ
 
 26. Nama : Novia Pramesti Aprilia
-27. 
+  
     Link Github : https://github.com/cookiezck 
 
 27. Nama : Vicko Maris Septiadi
@@ -116,10 +116,13 @@
     Link Github : https://github.com/dewiQ
 
 
-27. Nama : Aviza Anandya
+29. Nama : Aviza Anandya
 
     Link Github : https://github.com/vizaanandyaa
     
+31. Nama : Rosdaria Ambarita
+
+    Link Github : https://github.com/Blueros
 
 
 
