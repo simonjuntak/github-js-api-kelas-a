@@ -90,3 +90,7 @@
 
 22. Nama : Ferry Ananda Febian
     Link Github : https://github.com/ratixdev
+
+23. Nama : Bagas Kurnianto
+
+    Link Github : https://github.com/Gazka
