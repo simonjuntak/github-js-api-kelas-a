@@ -144,5 +144,13 @@
 
 35. Nama : Muhamad Dani Setiawan
     Link Github : https://github.com/danisetiawanid
+    
+36. Nama : Phyrigiant Richo Albarzani
+    Link Github : https://github.com/phyrigiant
+
+37. Nama : Rachmi Ulizah H
+    
+    Link Github : https://github.com/rachmiuliza
  
+
 
