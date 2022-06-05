@@ -92,6 +92,10 @@
     
     Link Github : https://github.com/ratixdev
 
-23. Nama : Antung Fauziah
+23. Nama : Bagas Kurnianto
+
+    Link Github : https://github.com/Gazka
+
+24. Nama : Antung Fauziah
 
     Link Github : https://github.com/AntungFauziah28
