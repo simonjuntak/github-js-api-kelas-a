@@ -96,14 +96,19 @@
 
     Link Github : https://github.com/Gazka
 
+24. Nama : Vicko Maris Septiadi
 
-24. Nama : Antung Fauziah
+    Link Github : https://github.com/vickomaris
+
+
+25. Nama : Antung Fauziah
 
     Link Github : https://github.com/AntungFauziah28
 
     
-25. Nama : Dewi Quraisin
+26. Nama : Dewi Quraisin
     Link Github : https://github.com/dewiQ
     
+
 
 
