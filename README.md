@@ -89,13 +89,21 @@
     Link Github : https://github.com/husnul1512
 
 22. Nama : Ferry Ananda Febian
+    
     Link Github : https://github.com/ratixdev
 
 23. Nama : Bagas Kurnianto
 
     Link Github : https://github.com/Gazka
+
+
+24. Nama : Antung Fauziah
+
+    Link Github : https://github.com/AntungFauziah28
+
     
-24. Nama : Dewi Quraisin
+25. Nama : Dewi Quraisin
     Link Github : https://github.com/dewiQ
     
+
 
