@@ -89,6 +89,7 @@
     Link Github : https://github.com/husnul1512
 
 22. Nama : Ferry Ananda Febian
+    
     Link Github : https://github.com/ratixdev
 
 23. Nama : Bagas Kurnianto
@@ -98,3 +99,16 @@
 24. Nama : Vicko Maris Septiadi
 
     Link Github : https://github.com/vickomaris
+
+
+25. Nama : Antung Fauziah
+
+    Link Github : https://github.com/AntungFauziah28
+
+    
+26. Nama : Dewi Quraisin
+    Link Github : https://github.com/dewiQ
+    
+
+
+
