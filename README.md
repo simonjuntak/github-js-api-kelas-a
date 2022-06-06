@@ -157,7 +157,13 @@
 
     Link Github : https://github.com/abdu-ar3/
 
-40. Nama : Dwi Setyo Wiratomo
+
+41. Nama : Said Jumadil Akbar
+
+    Link Github : https://github.com/saidjumadil/
+
+42. Nama : Dwi Setyo Wiratomo
 
     Link Github : https://github.com/dwiratomo12/
+
 
