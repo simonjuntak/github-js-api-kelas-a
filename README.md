@@ -147,3 +147,7 @@
 38. Nama : Fajar Tri Anggara
 
     GitHub Link : https://github.com/fajaranggara
+
+39. Nama : Naruto
+
+    Link GitHub : https://github.com/naruto    
