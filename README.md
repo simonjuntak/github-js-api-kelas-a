@@ -148,15 +148,13 @@
 
     GitHub Link : https://github.com/fajaranggara
 
-
 39. Nama : Naruto
 
-    Link GitHub : https://github.com/naruto    
+    Link GitHub : https://github.com/naruto
 
 40. Nama : Abdu Rohman
 
     Link Github : https://github.com/abdu-ar3/
-
 
 41. Nama : Said Jumadil Akbar
 
@@ -171,17 +169,21 @@
     Link Github : https://github.com/faliqadlan
 
 44. Nama : Jose Marchelino Situmorang
- 
+
     Link Github : https://github.com/Purifying12
 
 45. Nama : irawan
 
     Link Github : https://github.com/irprogate
-    
-46. Nama : Nawari 
 
-   Link Github : https://github.com/javacreatiox   
+46. Nama : Nawari
+
+Link Github : https://github.com/javacreatiox
 
 47. Nama : Jhony
 
     Link Github : https://github.com/jhonywong
+
+48. Nama : Rahmadien Akbariza Syifa Ul Haq
+
+    Link Github : https://github.com/Rahmadien
