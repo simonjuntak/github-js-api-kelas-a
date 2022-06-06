@@ -194,9 +194,15 @@ Link Github : https://github.com/javacreatiox
     Link Github : https://github.com/Rahmadien
 
 
-50. Nama: Felicia Kusuma
+50. Nama : Amri Khoirul Hakim
+
+    Link Github : https://github.com/amrihakim
+
+
+51. Nama: Felicia Kusuma
     Link Github : https://github.com/flsksm2611
 
-51. Nama : Julia Ratni
+52. Nama : Julia Ratni
 
     Link Github : https://github.com/JuliaRaa
+
