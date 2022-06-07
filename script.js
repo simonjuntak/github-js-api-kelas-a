@@ -1,24 +1,32 @@
-
 // Title
+const title = "Java Script with API DTS FGA Bacth 2 x Progate";
 
-const title = "Java Script with API DTS FGA Bacth 2 x Progate.";
+document.querySelector(".title").innerHTML = title;
 
-document.querySelector(".title").innerHTML= title;
-
-// Paragraph
-
-const paragraph = "Belajar GIT menggunakan Github";
-
-document.querySelector(".pragraph").innerHTML= ` Tema: ${paragraph}`;
-
-// Kelas
-
-function namaKelas (kelas) {
-    
-
+// Class
+function namaKelas(kelas) {
     let kelasProgat = kelas;
 
     document.querySelector(".className").innerHTML = kelasProgat;
 }
 
-namaKelas ("Kelas A");
+namaKelas("Kelas A");
+
+// Theme
+const paragraph = [
+    "Belajar GIT menggunakan Github",
+    "Belajar JavaScript",
+    "Belajar API",
+];
+
+let text = "";
+
+for (let p = 0; p <= 2; p++) {
+    text += ` &#x270F; ${paragraph[p]} ${"<br>"}`;
+
+    document.querySelector(".pragraph").innerHTML = text;
+
+    // Debugging
+    //console.table(text);
+}
+
