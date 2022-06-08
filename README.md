@@ -206,20 +206,25 @@ Link Github : https://github.com/javacreatiox
 
     Link Github : https://github.com/JuliaRaa
 
+53. Nama : Jhon Kitri Sianturi
 
-53. Nama : Raihan Revaldy Azura
+    Link Github : https://github.com/jhonkitri1
+
+54. Nama : Raihan Revaldy Azura
 
     Link GitHub : https://github.com/revaldyazura
 
-54. Nama : Zhafran Athofani
+55. Nama : Zhafran Athofani
+
     Link Github : https://github.com/Zhafranath
 
-55. Nama : Febry Prasetya
+56. Nama : Febry Prasetya
 
     Link Github : https://github.com/fbpr
 
-56. Nama : Avif Maulana Azis
+57. Nama : Avif Maulana Azis
 
     Link Github : https://github.com/Malvoy3rd
+
 
 
