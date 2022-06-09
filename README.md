@@ -229,4 +229,8 @@
 56. Nama: Okta Nada Al Husna
 
     Link Github : https://github.com/oktanada
+    
+57. Nama : Gusti Muhammad Adzaky
+
+    Link Github : https://github.com/GustiMuhammadAdzaky
 
