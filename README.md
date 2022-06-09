@@ -88,152 +88,145 @@
 
     Link Github : https://github.com/husnul1512
 
-22. Nama : Ferry Ananda Febian
-
-    Link Github : https://github.com/ratixdev
-
-23. Nama : Bagas Kurnianto
+22. Nama : Bagas Kurnianto
 
     Link Github : https://github.com/Gazka
 
-24. Nama : Antung Fauziah
+23. Nama : Antung Fauziah
 
     Link Github : https://github.com/AntungFauziah28
 
-25. Nama : Ferdy Alfian Indra Prasetya
+24. Nama : Ferdy Alfian Indra Prasetya
+
     Link Github : https://github.com/Ferdyalfianip
 
-26. Nama : Dewi Quraisin
+25. Nama : Dewi Quraisin
 
     Link Github : https://github.com/dewiQ
 
-27. Nama : Novia Pramesti Aprilia
+26. Nama : Novia Pramesti Aprilia
 
     Link Github : https://github.com/cookiezck
 
-28. Nama : Vicko Maris Septiadi
+27. Nama : Vicko Maris Septiadi
+
     Link Github : https://github.com/vickomaris
 
-29. Nama : Dewi Quraisin
-    Link Github : https://github.com/dewiQ
-
-30. Nama : Aviza Anandya
+28. Nama : Aviza Anandya
 
     Link Github : https://github.com/vizaanandyaa
 
-31. Nama : Rosdaria Ambarita
+29. Nama : Rosdaria Ambarita
 
     Link Github : https://github.com/Blueros
 
-32. Nama : Reza Pangestu
+30. Nama : Reza Pangestu
+
     Link GitHub : https://github.com/rezaapangestu313
-33. Nama : Siti Nurlia Kilmas
+
+31. Nama : Siti Nurlia Kilmas
 
     Link Github : https://github.com/sutset
 
-34. Nama : Muhammad Fajri Zetra
+32. Nama : Muhammad Fajri Zetra
 
     Link Github : https://github.com/FajriZetra52
 
-35. Nama : Muhamad Dani Setiawan
-    Link Github : https://github.com/danisetiawanid
-36. Nama : Phyrigiant Richo Albarzani
-    Link Github : https://github.com/phyrigiant
+33. Nama : Muhamad Dani Setiawan
 
-37. Nama : Rachmi Ulizah H
+    Link Github : https://github.com/danisetiawanid
+
+34. Nama : Rachmi Ulizah H
 
     Link Github : https://github.com/rachmiuliza
 
-38. Nama : Fajar Tri Anggara
+35. Nama : Fajar Tri Anggara
 
     GitHub Link : https://github.com/fajaranggara
 
-39. Nama : Naruto
+36. Nama : Naruto
 
     Link GitHub : https://github.com/naruto
 
-40. Nama : Abdu Rohman
+37. Nama : Abdu Rohman
 
     Link Github : https://github.com/abdu-ar3/
 
-41. Nama : Said Jumadil Akbar
+38. Nama : Said Jumadil Akbar
 
     Link Github : https://github.com/saidjumadil/
 
-42. Nama : Dwi Setyo Wiratomo
+39. Nama : Dwi Setyo Wiratomo
 
     Link Github : https://github.com/dwiratomo12/
 
-43. Nama : Muhammad Faliq Adlan
+40. Nama : Muhammad Faliq Adlan
 
     Link Github : https://github.com/faliqadlan
 
-44. Nama : Jose Marchelino Situmorang
+41. Nama : Jose Marchelino Situmorang
 
     Link Github : https://github.com/Purifying12
 
-45. Nama : irawan
+41. Nama : Nawari
 
-    Link Github : https://github.com/irprogate
+    Link Github : https://github.com/javacreatiox
 
-46. Nama : Nawari
-
-Link Github : https://github.com/javacreatiox
-
-47. Nama : Jhony
+43. Nama : Jhony
 
     Link Github : https://github.com/jhonywong
 
 
-48. Nama : Septian Putra
+44. Nama : Septian Putra
 
     Link Github : https://github.com/sputerah
 
-49. Nama : Rahmadien Akbariza Syifa Ul Haq
+45. Nama : Rahmadien Akbariza Syifa Ul Haq
 
     Link Github : https://github.com/Rahmadien
 
-
-50. Nama : Amri Khoirul Hakim
+46. Nama : Amri Khoirul Hakim
 
     Link Github : https://github.com/amrihakim
 
+47. Nama: Felicia Kusuma
 
-51. Nama: Felicia Kusuma
     Link Github : https://github.com/flsksm2611
 
-52. Nama : Julia Ratni
+48. Nama : Julia Ratni
 
     Link Github : https://github.com/JuliaRaa
 
-53. Nama : Jhon Kitri Sianturi
+49. Nama : Jhon Kitri Sianturi
 
     Link Github : https://github.com/jhonkitri1
 
-54. Nama : Raihan Revaldy Azura
+50. Nama : Raihan Revaldy Azura
 
     Link GitHub : https://github.com/revaldyazura
 
-55. Nama : Zhafran Athofani
+51. Nama : Zhafran Athofani
 
     Link Github : https://github.com/Zhafranath
 
-56. Nama : Febry Prasetya
+52. Nama : Febry Prasetya
 
     Link Github : https://github.com/fbpr
 
-57. Nama : Avif Maulana Azis
+53. Nama : Avif Maulana Azis
 
     Link Github : https://github.com/Malvoy3rd
 
-58. Nama : Alfiyah Nur Indraini
+54. Nama : Alfiyah Nur Indraini
 
     Link Github : https://github.com/alfiindraini
 
-59. Nama : Dyah Retno Mutia
+55. Nama : Dyah Retno Mutia
 
     Link Github : https://github.com/dyahretnomutia
+
     
-60. Nama: Okta Nada Al Husna
+56. Nama: Okta Nada Al Husna
 
     Link Github : https://github.com/oktanada
+
