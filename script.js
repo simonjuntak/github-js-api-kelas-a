@@ -1,18 +1,9 @@
 // Title
-const title = "Java Script with API DTS FGA Bacth 2 x Progate";
+const title = "JavaScript with API DTS FGA Bacth 2 x Progate";
 
 document.querySelector(".title").innerHTML = title;
 
-// Class
-function namaKelas(kelas) {
-    let kelasProgat = kelas;
-
-    document.querySelector(".className").innerHTML = kelasProgat;
-}
-
-namaKelas("Kelas A");
-
-// Theme
+// Themes
 const paragraph = [
     "Belajar GIT menggunakan Github",
     "Belajar JavaScript",
