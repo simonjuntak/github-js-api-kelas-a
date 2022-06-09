@@ -196,3 +196,31 @@
 48. Nama : Julia Ratni
 
     Link Github : https://github.com/JuliaRaa
+
+49. Nama : Jhon Kitri Sianturi
+
+    Link Github : https://github.com/jhonkitri1
+
+50. Nama : Raihan Revaldy Azura
+
+    Link GitHub : https://github.com/revaldyazura
+
+51. Nama : Zhafran Athofani
+
+    Link Github : https://github.com/Zhafranath
+
+52. Nama : Febry Prasetya
+
+    Link Github : https://github.com/fbpr
+
+53. Nama : Avif Maulana Azis
+
+    Link Github : https://github.com/Malvoy3rd
+
+54. Nama : Alfiyah Nur Indraini
+
+    Link Github : https://github.com/alfiindraini
+
+55. Nama : Dyah Retno Mutia
+
+    Link Github : https://github.com/dyahretnomutia
