@@ -3,7 +3,7 @@
 :root {
     --mainColor: #8a2be2;
     --bgColor: #f9e4d4;
-    --fontColor:#1d1026;
+    --secondColor:#1d1026;
     --mainBG: #debbf7;
 }
 
@@ -14,7 +14,7 @@ body {
 
 .container {
     /* border: 1px solid #1d1026; <-- Using to handle margin */
-    margin: 10% 25%;
+    margin: 100px 25%;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -43,6 +43,7 @@ body {
     text-align: center;
     padding: 0 4px;
     font-size: 24px;
+    color: var(--secondColor);
 }
 
 .border-class-name {
@@ -61,6 +62,7 @@ body {
     border-radius: 10px;
     background-color: var(--mainColor);
     margin: 10px;
+    color: var(--secondColor);
 }
 
 .themes h3 {
@@ -72,6 +74,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    color: var(--secondColor);
 }
 
 /* Documentation Icon */
@@ -131,6 +134,31 @@ body {
 
 .progate-logo, .class-logo {
     margin: 5px 15px;
+}
+
+/* Loading */
+
+.page {
+    display: none;
+}
+
+#loading {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    width: 100vw;
+    height: 100vh;
+    background-color: var(--mainBG);
+    
+}
+
+/* Image Loading */
+#loading {
+    background-image: url(./assets/images/human-loading.gif);
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 /* Responsive */

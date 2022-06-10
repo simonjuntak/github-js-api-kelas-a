@@ -225,7 +225,6 @@
 
     Link Github : https://github.com/dyahretnomutia
 
-    
 56. Nama: Okta Nada Al Husna
 
     Link Github : https://github.com/oktanada
