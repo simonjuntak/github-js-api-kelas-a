@@ -32,7 +32,7 @@ const setVisible = (elementOrSelector, visible) =>
 setVisible(".page", false);
 setVisible("#loading", true);
 
-document.addEventListener("DOMContentLoaded", () => wait(5000).then (() => {
+document.addEventListener("DOMContentLoaded", () => wait(2000).then (() => {
     setVisible(".page", true);
     setVisible("#loading", false);
 }));
