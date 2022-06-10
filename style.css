@@ -156,9 +156,9 @@ body {
 
 /* Image Loading */
 #loading {
-    background-image: url(./assets/images/human-loading.gif);
+    background-image: url(./assets/images/infinity-loading.gif);
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: 50% 40%;
 }
 
 /* Responsive */
@@ -174,6 +174,10 @@ body {
 
     .title, .kcm, h3, .kp {
         font-size: 12px;
+    }
+
+    #loading {
+        background-size: 64px;
     }
 }
 
@@ -198,5 +202,9 @@ body {
 
     .footer {
         width: auto;
+    }
+
+    #loading {
+        background-size: 64px;
     }
 }
