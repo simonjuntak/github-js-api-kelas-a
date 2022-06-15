@@ -240,3 +240,7 @@
 59. Nama : Aisyah Fitri Rahmadani
 
     Link Github : https://github.com/Aisyahfr
+
+60. Nama : Rizky Rahmat Illahi
+
+    Link Github : https://github.com/Rizky1200
