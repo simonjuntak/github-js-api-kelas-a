@@ -161,6 +161,13 @@ body {
     background-position: 50% 40%;
 }
 
+.quote{
+    text-align: center;
+}
+.quote h3 {
+    line-height: 2px;
+
+}
 /* Responsive */
 @media all and (max-width:768px) {
 
