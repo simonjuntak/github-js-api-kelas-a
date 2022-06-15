@@ -1,27 +1,210 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500&display=swap');
 
+:root {
+    --mainColor: #8a2be2;
+    --bgColor: #f9e4d4;
+    --secondColor:#1d1026;
+    --mainBG: #debbf7;
+}
+
 body {
     font-family: "poppins";
+    background-color: var(--mainBG);
 }
 
-.header {
-    border: 1px solid blueviolet;
+.container {
+    /* border: 1px solid #1d1026; <-- Using to handle margin */
+    margin: 100px 25%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.sub-container {
+    border: 1px solid #1d1026;
+    background-color: var(--bgColor);
     border-radius: 10px;
-    background-color: blueviolet;
-    width: fit-content;
-    margin: 15% 30%;
-
+    width: auto;
+    margin: 10px;
+    position: relative;
 }
 
-h1 {
+/* Header */
+.header {
+    border: 1px solid #1d1026;
+    border-radius: 10px;
+    background-color: var(--mainColor);
+    width: fit-content;
+    margin: 10px;
+    overflow: auto;
+}
+
+.title {
     text-align: center;
     padding: 0 4px;
     font-size: 24px;
-    
+    color: var(--secondColor);
+}
+
+.border-class-name {
+    background-color: var(--mainColor);
+}
+
+.kp {
+    padding: 0 4px;
+    font-weight: 500;
+    color: var(--fontColor);
+}
+
+/* Themes */
+.themes {
+    border: 1px solid #1d1026;
+    border-radius: 10px;
+    background-color: var(--mainColor);
+    margin: 10px;
+    color: var(--secondColor);
+}
+
+.themes h3 {
+    text-align: center;
+}
+
+/* Content */
+.content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: var(--secondColor);
+}
+
+/* Documentation Icon */
+.documentations {
+    border: 1px solid #1d1026;
+    border-radius: 10px;
+    background-color: var(--mainColor);
+    width: fit-content;
+    margin: 10px;
+    display: flex;
+    align-items: center;
+
+}
+
+.documentations:hover, .participants:hover{
+    background-color: #cc9af2;
+}
+
+.participants {
+    border: 1px solid #1d1026;
+    border-radius: 10px;
+    background-color: var(--mainColor);
+    width: fit-content;
+    margin: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.iconify, .docs, .people {
+    margin: 0 5px;
+    text-decoration: none;
+}
+
+.docs, .people {
+    color: var(--fontColor);
 }
 
 
-.kp, .kcm {
-    padding: 0 4px;
-    font-weight: 500;
+/* Footer */
+.footer {
+    position: relative;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: auto;
+}
+
+.progate-logo img {
+    width: 8rem;
+    
+}
+
+.class-logo img {
+    width: 4rem;
+}
+
+.progate-logo, .class-logo {
+    margin: 5px 15px;
+}
+
+/* Loading */
+
+.page {
+    display: none;
+}
+
+#loading {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    width: 100vw;
+    height: 100vh;
+    background-color: var(--mainBG);
+    
+}
+
+/* Image Loading */
+#loading {
+    background-image: url(./assets/images/infinity-loading.gif);
+    background-repeat: no-repeat;
+    background-position: 50% 40%;
+}
+
+/* Responsive */
+@media all and (max-width:768px) {
+
+    .container {
+        margin: 100px auto;
+    }
+
+    .footer {
+        width: auto;
+    }
+
+    .title, .kcm, h3, .kp {
+        font-size: 12px;
+    }
+
+    #loading {
+        background-size: 64px;
+    }
+}
+
+@media all and (max-width:480px) {
+
+    .container {
+        margin: 100px auto;
+    }
+
+    .title, h3, .kp {
+        font-size: 12px;
+    }
+
+    .docs, .people {
+        display: none;
+    }
+
+    .content {
+        display: flex;
+        justify-content: center;
+    }
+
+    .footer {
+        width: auto;
+    }
+
+    #loading {
+        background-size: 64px;
+    }
 }
