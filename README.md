@@ -240,3 +240,8 @@
 59. Nama : Aisyah Fitri Rahmadani
 
     Link Github : https://github.com/Aisyahfr
+
+60. Nama : Agnes Leonita Nawaningrum
+
+    Link Github : https://github.com/jan-gan
+    
