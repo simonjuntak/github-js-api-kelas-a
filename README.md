@@ -244,7 +244,11 @@
 60. Nama : Agnes Leonita Nawaningrum
 
     Link Github : https://github.com/jan-gan
-    
+
 61. Nama : Rizky Rahmat Illahi
 
     Link Github : https://github.com/Rizky1200
+    
+62. Nama : Ahmad Afif Aulia Hariz
+
+    Link Github : https://github.com/afifhrz
