@@ -241,6 +241,10 @@
 
     Link Github : https://github.com/Aisyahfr
 
-60. Nama : Rizky Rahmat Illahi
+60. Nama : Agnes Leonita Nawaningrum
+
+    Link Github : https://github.com/jan-gan
+    
+61. Nama : Rizky Rahmat Illahi
 
     Link Github : https://github.com/Rizky1200
