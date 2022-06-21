@@ -100,7 +100,8 @@ body {
 }
 
 .documentations:hover,
-.participants:hover {
+.participants:hover,
+.theory:hover {
     background-color: #cc9af2;
 }
 
