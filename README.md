@@ -252,3 +252,7 @@
 62. Nama : Ahmad Afif Aulia Hariz
 
     Link Github : https://github.com/afifhrz
+    
+63. Nama : I Putu Wira Pratama Putra
+
+    Link Github : https://github.com/wirapratamaz
