@@ -1,244 +1,238 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500&display=swap');
-:root {
-    --mainColor: #8a2be2;
-    --bgColor: #f9e4d4;
-    --secondColor: #1d1026;
-    --mainBG: #debbf7;
+
+* {
+  box-sizing: border-box;
 }
 
 body {
-    font-family: "poppins";
-    background-color: var(--mainBG);
-    background-image: url("giphy.gif");
-    background-repeat: no-repeat;
-    background-position: bottom left;
-    background-size: 100px;
+  background-color: white;
+  font-family: "Poppins";
 }
 
-.container {
-    /* border: 1px solid #1d1026; <-- Using to handle margin */
-    margin: 100px 25%;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+main, .kelas, .quotes {
+  height: max-content;
 }
 
-.sub-container {
-    border: 1px solid #1d1026;
-    background-color: var(--bgColor);
-    border-radius: 10px;
-    width: auto;
-    margin: 10px;
-    position: relative;
+header {
+  /*border: 2px solid blue;*/
+  background-image: linear-gradient(black, black), url('assets/images/gambar2.png');
+  background-size: cover;
+  background-blend-mode: saturation;
+  background-repeat: no-repeat;
+  height: 763px;
+  color: white;
 }
 
-
-/* Header */
-
-.header {
-    border: 1px solid #1d1026;
-    border-radius: 10px;
-    background-color: var(--mainColor);
-    width: fit-content;
-    margin: 10px;
-    overflow: auto;
+nav {
+  background-color: #8d7cc2;
+  padding: 10px;
+  text-align: right;
+  /* border: 2px solid red; */
 }
 
-.title {
-    text-align: center;
-    padding: 0 4px;
-    font-size: 24px;
-    color: var(--secondColor);
+.flex-column {
+  display: flex;
+  flex-direction: column;
 }
 
-.border-class-name {
-    background-color: var(--mainColor);
+.flex-row {
+  display: flex;
+  flex-direction: row;
+  /*border: 2px solid red;*/
 }
 
-.kp {
-    padding: 0 4px;
-    font-weight: 500;
-    color: var(--fontColor);
+.box {
+  flex-basis: 25%;
+  /*border: 2px solid red;*/
+  text-align: center;
 }
 
-
-/* Themes */
-
-.themes {
-    border: 1px solid #1d1026;
-    border-radius: 10px;
-    background-color: var(--mainColor);
-    margin: 10px;
-    color: var(--secondColor);
+.full {
+  flex-basis: 100%;
+  text-align: center;
 }
 
-.themes h3 {
-    text-align: center;
+.half {
+  flex-basis: 50%;
+  /*border: 2px solid blue; */
+  height: 30px;
 }
 
 
-/* Content */
+header h1 {
+  font-size: 150px;
+  line-height: 150px;
+  color: #8d7cc2;
+  letter-spacing: 5px;
+  font-weight: bolder;
+  opacity: 0.8;
+  margin-bottom: 80px;
+  position: sticky;
+}
 
-.content {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    color: var(--secondColor);
+h1 span {
+  color: red;
 }
 
 
-/* Documentation Icon */
-
-.documentations {
-    border: 1px solid #1d1026;
-    border-radius: 10px;
-    background-color: var(--mainColor);
-    width: fit-content;
-    margin: 10px;
-    display: flex;
-    align-items: center;
+.button {
+  text-decoration: none;
+  justify-content: center;
+  color: white;
+  padding: 10px 20px;
+  
+  background-color: #8d7cc2;
+  border-radius: 4px;
 }
 
-.documentations:hover,
-.participants:hover,
-.theory:hover {
-    background-color: #cc9af2;
+.button:hover {
+    color: #44414c;
 }
 
-.participants {
-    border: 1px solid #1d1026;
-    border-radius: 10px;
-    background-color: var(--mainColor);
-    width: fit-content;
-    margin: 10px;
-    display: flex;
-    align-items: center;
+.kelas .title {
+  /*border: 2px solid blue;*/
+  color: #44414c;
+  text-align: center;
+  padding: 30px;
+  font-size: 30px;
 }
 
-.theory {
-    border: 1px solid #1d1026;
-    border-radius: 10px;
-    background-color: var(--mainColor);
-    width: fit-content;
-    margin: 10px;
-    display: flex;
-    align-items: center;
+.kelas, .quotes{
+  margin-bottom: 50px;
 }
 
-.iconify,
-.docs,
-.people {
-    margin: 0 5px;
-    text-decoration: none;
+.quotes-border {
+  border: 2px solid #8d7cc2;
 }
 
-.docs,
-.people {
-    color: var(--fontColor);
+.quotes-body {
+  background-color: #8d7cc2;
 }
 
-
-/* Footer */
-
-.footer {
-    position: relative;
-    margin: 30px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: auto;
+.card-img-top {
+  padding: 30px;
 }
 
-.progate-logo img {
-    width: 10rem;
+.pelajaran {
+  color: #44414c;
 }
 
-.class-logo img {
-    width: 6rem;
+.deskripsi {
+  color: #44414c;
 }
 
-.progate-logo,
-.class-logo {
-    margin: 5px 15px;
+footer {
+  color: white;
+  background-color: #8d7cc2;
+  padding: 20px;
+  margin-top: 30px;
+  text-align: center;
+  font-size: 15px;
 }
 
 
 /* Loading */
 
 .page {
-    display: none;
+  display: none;
 }
 
 #loading {
-    display: block;
-    position: absolute;
-    top: 0;
-    left: 0;
-    z-index: 1;
-    width: 100vw;
-    height: 100vh;
-    background-color: var(--mainBG);
-}
+  display: block;
 
+  /*diubah ke fixed agar page loading tetap menutupi keseluruhan viewed halaman saat di-scroll*/
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  width: 100vw;
+  height: 100vh;
+  background-color: #8d7cc2;
+  
+}
 
 /* Image Loading */
-
 #loading {
-    background-image: url(./assets/images/infinity-loading.gif);
-    background-repeat: no-repeat;
-    background-position: 50% 40%;
+  background-image: url(assets/gif/infinity-loading.gif);
+  background-repeat: no-repeat;
+  background-position: 50% 40%;
 }
 
-.quote {
-    text-align: center;
+.quote{
+  text-align: center;
 }
-
 .quote h3 {
-    line-height: 2px;
+  line-height: 2px;
+
 }
 
+@media screen and (max-width: 480px) {
+  header {
+    height: 915px;
+  }
+  
+  header h1 {
+    font-size: 70px;
+    line-height: 70px;
+  }
 
-/* Responsive */
+  .card-img-top {
+    padding: 60px;
+  }
 
-@media all and (max-width:768px) {
-    .container {
-        margin: 100px auto;
-    }
-    .footer {
-        width: auto;
-    }
-    .title,
-    .kcm,
-    h3,
-    .kp {
-        font-size: 12px;
-    }
-    #loading {
-        background-size: 64px;
-    }
+  .card {
+    padding: 60px;
+  }
+
+  .btn-wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    margin: 0 auto;
+  }
+
+  main, .kelas, .quotes {
+    height: max-content;
+  }
+
+  #loading {
+    background-size: 64px;
+ }
+
+ footer {
+  font-size: 10px;
+ }
 }
 
-@media all and (max-width:480px) {
-    .container {
-        margin: 100px auto;
-    }
-    .title,
-    h3,
-    .kp {
-        font-size: 12px;
-    }
-    .docs,
-    .people {
-        display: none;
-    }
-    .content {
-        display: flex;
-        justify-content: center;
-    }
-    .footer {
-        width: auto;
-    }
-    #loading {
-        background-size: 64px;
-    }
+@media screen and (min-width: 991.98px) {
+  header h1 {
+    font-size: 150px;
+    line-height: 150px;
+  }
+
+  main, .kelas, .quotes {
+    height: max-content;
+  }
 }
+
+@media screen and (min-width: 768px) {
+  header h1 {
+    font-size: 150px;
+    line-height: 150px;
+  }
+
+  main, .kelas, .quotes {
+    height: max-content;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  header {
+    height: 800px;
+  }
+
+  main, .kelas, .quotes {
+    height: max-content;
+  }
+}
+
