@@ -1,70 +1,111 @@
 <!DOCTYPE html>
 <html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="./style.css">
-
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>JavaScript with API DTS FGA Batch 2 x Progate</title>
+    <link rel="stylesheet" href="style.css" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous" />
     <script src="https://code.iconify.design/2/2.2.1/iconify.min.js"></script>
-
-    <link rel="icon" type="image/x-icon" href="./assets/favicon/favicon.ico">
-
-    <title>DTS FGA Bacth 2 x Progate</title>
-</head>
-
-<body>
+  </head>
+  <body>
 
     <div class="page"></div>
 
-    <div class="container">
-        <div class="sub-container">
-            <div class="header">
-                <h1 class="title"></h1>
+    <header>
+      <div class="flex-column">
+        <nav>
+          <div class="flex-row">
+            <div class="full">
+              <div class="navbar-brand">
+                <img src="assets/images/Progate-Logo.svg" width="110" />
+                <img src="assets/images/digitalent.png" width="40" />
+                <img src="assets/images/kominfo.png" width="45" />
+                <img src="assets/images/JS-Kelas A.jpg" width="43" />
+              </div>
             </div>
-
-            <div class="themes">
-                <h3>Tema</h3>
-                <p class=" kp pragraph"></p>
-            </div>
-
-            <div class="content">
-
-                <div class="documentations">
-                    <i class="iconify" data-icon="simple-line-icons:social-youtube"></i>
-                    <a href="https://www.youtube.com/channel/UCluE0fsZSu211CjnGyYiS4g" class="docs" target="_blank">Dokumentasi</a>
-                </div>
-
-                <div class="participants">
-                    <span class="iconify" data-icon="simple-line-icons:user"></span>
-                    <a href="./README.md" class="people" target="_blank">Peserta</a>
-                </div>
-                <div class="theory">
-                    <span class="iconify" data-icon="simple-line-icons:social-google"></span>
-                    <a href="https://docs.google.com/spreadsheets/d/1V-OLdi3zMGWUEvovzgy9CMQBvfT4IQwsgTzyQcQu1EY/edit#gid=208952153" class="docs" target="_blank">Materi</a>
-                </div>
-            </div>
+          </div>
+        </nav>
+      </div>
+      <div class="flex-column"></div>
+        <div class="flex-row">
+          <div class="full">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 60 1440 258">
+              <path
+                fill="#8D7CC2"
+                fill-opacity="1"
+                d="M0,192L48,192C96,192,192,192,288,165.3C384,139,480,85,576,80C672,75,768,117,864,117.3C960,117,1056,75,1152,101.3C1248,128,1344,224,1392,272L1440,320L1440,0L1392,0C1344,0,1248,0,1152,0C1056,0,960,0,864,0C768,0,672,0,576,0C480,0,384,0,288,0C192,0,96,0,48,0L0,0Z"
+              ></path>
+            </svg>
+          </div>
         </div>
-        <div class="quote">
-            <em>Quote of the day</em>
+        <div class="container-md">
+          <div class="flex-row">
+            <div class="full">
+              <div class="box">
+                <h1>Hello, World<span>.</span> </h1>
+              </div>
+            </div>
+          </div>
+          <div class="flex-row">
+            <div class="full">
+              <div class="box">
+                <div class="btn-wrapper gap-3 d-flex justify-content-center">
+                  <a class="button docs " href="https://www.youtube.com/channel/UCluE0fsZSu211CjnGyYiS4g">Dokumentasi</a>
+                  <a class="button docs" href="https://www.youtube.com/channel/UCluE0fsZSu211CjnGyYiS4g">Pelajaran</a>
+                  <a class="button docs" href="https://rachmadirawan.github.io/github-js-api-kelas-a/README.md">Peserta</a>
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
-        <footer class="footer">
-            <div class="progate-logo">
-                <a href="https://progate.com/" target="_blank"><img src="https://prog-8.com/images/html/advanced/footer_logo.png" alt="Progate"></a>
-                <p>Learn to code, learn to be creative.</p>
-            </div>
+      </div>
+    </header>
+    
 
-            <div class="class-logo">
-                <a href="https://t.me/Rirawan" class="docs" target="_blank">
-                    <img src="./assets/images/JS-Kelas A.jpg" alt="JavaScript Kelas A"></a>
+    <main>
+      
+      <section class="kelas">
+        <h1 class="title"></h1>
+        <div class="container">
+        <div class="list-pelajaran row justify-content-around card-gap">
+            
+        </div>
+      </section>
+
+      <section class="quotes">
+        <div class="container">
+          <div class="card text-center">
+            <div class="card-header quotes-border">
+              <em style="color:#44414c; font-size: 20px;">Quote of the day</em>
             </div>
-        </footer>
-    </div>
+            <div class="card-body quotes-body">
+              <blockquote class="blockquote mb-0">
+                <div class="quote" style="color:white; padding: 20px;">
+        
+                </div>
+              </blockquote>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="gif">
+        <marquee direction="right" scrollamount="15">
+        <img src="assets/gif/giphy.gif" width="100px">
+      </marquee>
+
+      </section>
+
+    </main>
 
     <div id="loading"></div>
 
-    <script src="./script.js"></script>
-</body>
+    <footer>
+      &#169; Peserta Pelatihan JavaScript with API DTS FGA Batch 2 x Progate
+    </footer>
 
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+    <script src="script.js"></script>
+  </body>
 </html>

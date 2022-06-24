@@ -1,0 +1,271 @@
+{
+    "instructur": [
+        {
+            "nama": "Rachmad Irawan",
+            "github": "https://github.com/rachmadirawan"
+        }
+    ],
+
+    "tema": [
+        {
+            "pelajaran": "GIT",
+            "deskripsi": "Belajar GIT Menggunakan Github",
+            "gambar": "assets/images/git.png"
+        },
+
+        {
+            "pelajaran": "JavaScript",
+            "deskripsi": "Belajar JavaScript",
+            "gambar": "assets/images/javascript.png"
+        },
+
+        {
+            "pelajaran": "API",
+            "deskripsi": "Belajar API",
+            "gambar": "assets/images/api.png"
+        }
+    ],
+
+    "peserta": [
+        {
+            "nama": "Yurham Afif",
+            "github": "https://github.com/itsapep"
+        },
+        {
+            "nama": "Riki Widianto",
+            "github": "https://github.com/rikiwidiantoro"
+        },
+        {
+            "nama": "MUH. AHSAN",
+            "github": "https://github.com/muhahsanarifin"
+        },
+        {
+            "nama": "Ihtisyamul Fatimah",
+            "github": "https://github.com/Asyima37"
+        },
+        {
+            "nama": "Anggi Tri Sihombing",
+            "github": "https://github.com/anggitrisi"
+        },
+        {
+            "nama": "Muhammad Reza Phonna",
+            "github": "https://github.com/rezaphonna"
+        },
+        {
+            "nama": "Anisa Permatasari",
+            "github": "https://github.com/anisa2472"
+        },
+        {
+            "nama": "Rizqi Siti Rahmah",
+            "github": "https://github.com/RizqiSR/"
+        },
+        {
+            "nama": "Mukhammad Fakhrizal Ihza Mahendra",
+            "github": "https://github.com/mfimahendra"
+        },
+        {
+            "nama": "Bella Rhobiatul Adhawiyah",
+            "github": "https://github.com/bellrhoa"
+        },
+        {
+            "nama": "RWahyu Maulana Prawiro",
+            "github": "https://github.com/wmprawiro"
+        },
+        {
+            "nama": "Ninja Ken",
+            "github": "https://github.com/irprogate"
+        },
+        {
+            "nama": "Nanda Roendra",
+            "github": "https://github.com/nandaroendra"
+        },
+        {
+            "nama": "Yesyurun Masiakh",
+            "github": "https://github.com/YesyurunMasiakh"
+        },
+        {
+            "nama": "Novi Fitri",
+            "github": "https://github.com/novifitri"
+        },
+        {
+            "nama": "Riska Amelia",
+            "github": "https://github.com/riskaamelia-wd"
+        },
+        {
+            "nama": "Phyrigiant Richo Albarzani",
+            "github": "https://github.com/phyrigiant"
+        },
+        {
+            "nama": "Ferry Ananda Febian",
+            "github": "https://github.com/ratixdev"
+        },
+        {
+            "nama": "Aruf Rachman Hakim",
+            "github": "https://github.com/arufhakim"
+        },
+        {
+            "nama": "Husnul Hotimah",
+            "github": "https://github.com/husnul1512"
+        },
+        {
+            "nama": "Bagas Kurnianto",
+            "github": "https://github.com/Gazka"
+        },
+        {
+            "nama": "Antung Fauziah",
+            "github": "https://github.com/AntungFauziah28"
+        },
+        {
+            "nama": "Ferdy Alfian Indra Prasetya",
+            "github": "https://github.com/Ferdyalfianip"
+        },
+        {
+            "nama": "Dewi Quraisin",
+            "github": "https://github.com/dewiQ"
+        },
+        {
+            "nama": "Novia Pramesti Aprilia",
+            "github": "https://github.com/cookiezck"
+        },
+        {
+            "nama": "Vicko Maris Septiadi",
+            "github": "https://github.com/vickomaris"
+        },
+        {
+            "nama": "Aviza Anandya",
+            "github": "https://github.com/vizaanandyaa"
+        },
+        {
+            "nama": "Rosdaria Ambarita",
+            "github": "https://github.com/Blueros"
+        },
+        {
+            "nama": "Reza Pangestu",
+            "github": "https://github.com/rezaapangestu313"
+        },
+        {
+            "nama": "Siti Nurlia Kilmas",
+            "github": "https://github.com/sutset"
+        },
+        {
+            "nama": "Muhammad Fajri Zetra",
+            "github": "https://github.com/FajriZetra52"
+        },
+        {
+            "nama": "Muhamad Dani Setiawan",
+            "github": " https://github.com/danisetiawanid"
+        },
+        {
+            "nama": "Rachmi Ulizah H",
+            "github": "https://github.com/rachmiuliza"
+        },
+        {
+            "nama": "Fajar Tri Anggara",
+            "github": "https://github.com/fajaranggara"
+        },
+        {
+            "nama": "Naruto",
+            "github": "https://github.com/naruto"
+        },
+        {
+            "nama": "Abdu Rohman",
+            "github": "https://github.com/abdu-ar3/"
+        },
+        {
+            "nama": "Said Jumadil Akbar",
+            "github": "https://github.com/saidjumadil/"
+        },
+        {
+            "nama": "Dwi Setyo Wiratomo",
+            "github": "https://github.com/dwiratomo12/"
+        },
+        {
+            "nama": "Muhammad Faliq Adlan",
+            "github": "https://github.com/faliqadlan"
+        },
+        {
+            "nama": "Jose Marchelino Situmorang",
+            "github": "https://github.com/Purifying12"
+        },
+        {
+            "nama": "Nawari",
+            "github": "https://github.com/javacreatiox"
+        },
+        {
+            "nama": "Jhony",
+            "github": "https://github.com/jhonywong"
+        },
+        {
+            "nama": "Septian Putra",
+            "github": "https://github.com/sputerah"
+        },
+        {
+            "nama": "Rahmadien Akbariza Syifa Ul Haq",
+            "github": "https://github.com/Rahmadien"
+        },
+        {
+            "nama": "Amri Khoirul Hakim",
+            "github": "https://github.com/amrihakim"
+        },
+        {
+            "nama": "Felicia Kusuma",
+            "github": "https://github.com/flsksm2611"
+        },
+        {
+            "nama": "Julia Ratni",
+            "github": "https://github.com/JuliaRaa"
+        },
+        {
+            "nama": "Jhon Kitri Sianturi",
+            "github": "https://github.com/jhonkitri1"
+        },
+        {
+            "nama": "Raihan Revaldy Azura",
+            "github": "https://github.com/revaldyazura"
+        },
+        {
+            "nama": "Zhafran Athofani",
+            "github": "https://github.com/fbpr"
+        },
+        {
+            "nama": "Avif Maulana Azis",
+            "github": "https://github.com/Malvoy3rd"
+        },
+        {
+            "nama": "Alfiyah Nur Indraini",
+            "github": "https://github.com/alfiindraini"
+        },
+        {
+            "nama": "Dyah Retno Mutia",
+            "github": "https://github.com/dyahretnomutia"
+        },
+        {
+            "nama": "Okta Nada Al Husna",
+            "github": "https://github.com/oktanada"
+        },
+        {
+            "nama": "Gusti Muhammad Adzaky",
+            "github": "https://github.com/GustiMuhammadAdzaky"
+        },
+        {
+            "nama": "Muhammad Thariq Hidayat",
+            "github": "https://github.com/mthariqh"
+        },
+        {
+            "nama": "Aisyah Fitri Rahmadani",
+            "github": "https://github.com/Aisyahfr"
+        },
+        {
+            "nama": "Agnes Leonita Nawaningrum",
+            "github": "https://github.com/jan-gan"
+        },
+        {
+            "nama": "Rizky Rahmat Illahi",
+            "github": "https://github.com/Rizky1200"
+        },
+        {
+            "nama": "Ahmad Afif Aulia Hariz",
+            "github": "https://github.com/afifhrz"
+        }
+    ]
+}
